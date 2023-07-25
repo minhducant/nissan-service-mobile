@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/nissan_bold.ttf",
+      "sha1": "1ac170199a60af7d64b06840356345a1f7aad804"
+    },
+    {
+      "path": "src/assets/fonts/nissan_bold_italic.ttf",
+      "sha1": "fb7f88bfd3e8ec076bafa7886c5ffd762c0a4e6d"
+    },
+    {
+      "path": "src/assets/fonts/nissan_italic.ttf",
+      "sha1": "b6dd86512599615f6c1cb89f66deed307f7b5269"
+    },
+    {
+      "path": "src/assets/fonts/nissan_light.ttf",
+      "sha1": "8636775d5673ee77d4975f1610a9602b5cb20dc3"
+    },
+    {
+      "path": "src/assets/fonts/nissan_regular.ttf",
+      "sha1": "109f38884bbdee732a83a2830ac85ad243261eee"
+    }
+  ]
+}

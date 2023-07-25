@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775087589446",
+    "project_id": "nissan-service",
+    "storage_bucket": "nissan-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775087589446:android:071aee65420800d8d7e247",
+        "android_client_info": {
+          "package_name": "com.service.nissan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775087589446-abah9ivs5oh9f3kd5tvlllclpamrblm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL3JJ8jlFKKXiZwjAeddxsazPThIYOlrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775087589446-abah9ivs5oh9f3kd5tvlllclpamrblm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
